@@ -17,7 +17,9 @@ No potential vulnerabilities have been identified in the crowdsale and token con
 
 ### Crowdsale Mainnet Address
 
-`{TBA}`
+Crowdsale / token deployed to [0x2d4b1cc9a2d7417a9689bbcfefb224876cda7923](https://etherscan.io/address/0x2d4b1cc9a2d7417a9689bbcfefb224876cda7923#code).
+
+Crowdsale wallet at [0xa8dad2323f62b865fb122b90b4a0a3dd399d0643](https://etherscan.io/address/0xa8dad2323f62b865fb122b90b4a0a3dd399d0643).
 
 <br />
 
