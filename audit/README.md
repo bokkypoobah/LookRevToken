@@ -21,6 +21,8 @@ Crowdsale / token deployed to [0x2d4b1cc9a2d7417a9689bbcfefb224876cda7923](https
 
 Crowdsale wallet at [0xa8dad2323f62b865fb122b90b4a0a3dd399d0643](https://etherscan.io/address/0xa8dad2323f62b865fb122b90b4a0a3dd399d0643).
 
+Token explorer [0x2d4B1Cc9a2d7417A9689bbcFeFb224876cda7923](https://etherscan.io/token/0x2d4B1Cc9a2d7417A9689bbcFeFb224876cda7923).
+
 <br />
 
 ### Crowdsale Statistics
